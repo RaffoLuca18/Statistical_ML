@@ -5,7 +5,4 @@ The data used and the notebook are available under request.
 
 
 
-Joint work with:
-
-Guadagnuolo F. M.
-Santini E.
+Joint work with: Guadagnuolo F. M., Santini E.
